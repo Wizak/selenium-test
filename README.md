@@ -8,19 +8,19 @@ Copy file to your work directory.
 https://chromedriver.chromium.org/downloads
 ```
 ## Step 2
-Install selenium lib with pip into your python venv
+Install selenium lib with pip into your python venv.
 ```
 python -m venv venv
 venv\Scripts\Activate
 pip install selenium
 ```
 ## Step 3
-Run python script
+Run python script.
 ```
 python main.py
 ```
 ## Step 4
-Check result
+Check result in chatbot_list.json.
 ```json
 {
    "Telegram": "https://t.me/Diia_help_bot?start=X3VybD0lMkZsaW5rJmQ9Mg",
