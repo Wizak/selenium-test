@@ -19,3 +19,12 @@ Run python script
 ```
 python main.py
 ```
+## Step 4
+Check result
+```json
+{
+   "Telegram": "https://t.me/Diia_help_bot?start=X3VybD0lMkZsaW5rJmQ9Mg",
+   "Viber": "viber://pa?chatURI=diia_help_bot&context=X3VybD0lMkZsaW5rJmQ9Mg==",
+   "Messenger": "https://m.me/105597857511240?ref=X3VybD0lMkZsaW5rJmQ9Mg=="
+}
+```
